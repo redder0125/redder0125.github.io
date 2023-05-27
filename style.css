@@ -29,6 +29,10 @@ header, footer {
     text-decoration-line: none;
 }
 
+.colors_meaning {
+    list-style: none;
+}
+
 h2{
     margin-top: 100px;
 }
