@@ -29,8 +29,12 @@ header, footer {
     text-decoration-line: none;
 }
 
-#list, #links {
+h2{
     margin-top: 100px;
+}
+
+#indexer {
+    margin-top: auto;
 }
 
 button {
