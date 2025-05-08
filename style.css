@@ -9,7 +9,7 @@
     body {
         max-width: 430px;
         margin: auto;
-        padding: 0 10px;
+        padding: 0 15px;
     }
     main {
         width: 100%;
@@ -23,6 +23,7 @@
     body {
         max-width: 860px;
         margin: auto;
+        padding: 0 30px;
     }
 
     main {
