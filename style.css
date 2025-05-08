@@ -5,7 +5,7 @@
     font-style: normal;
 }
 
-@media screen and (max-width: 999px) {
+@media screen and (orientation: portrait) {
     body {
         max-width: 95vw;
     }
@@ -15,7 +15,7 @@
     }
 }
 
-@media screen and (min-width: 1000px) {
+@media screen and (orientation: landscape) {
     body {
         max-width: 860px;
         margin: auto;
