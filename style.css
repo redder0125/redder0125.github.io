@@ -10,12 +10,20 @@
         max-width: 430px;
         margin: auto;
     }
+
+    main {
+        width: 400px;
+    }
 }
 
 @media screen and (orientation: landscape) {
     body {
         max-width: 860px;
         margin: auto;
+    }
+
+    main {
+       width: 430px;
     }
 }
 
@@ -27,12 +35,6 @@
 header, footer {
     text-align: center;
     padding: 5em auto;
-}
-
-main {
-    /* border: 1px solid #333; */
-    padding: 2em 10em;
-    width: 430px;
 }
 
 a {
