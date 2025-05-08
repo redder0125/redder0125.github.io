@@ -7,11 +7,12 @@
 
 @media screen and (orientation: portrait) {
     body {
-        max-width: 95vw;
+        max-width: 430px;
+        margin: auto;
     }
 
     main {
-        max-width: 430px;
+        width: 400px;
     }
 }
 
