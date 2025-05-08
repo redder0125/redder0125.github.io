@@ -5,6 +5,14 @@
     font-style: normal;
 }
 
+@media screen and (orientation: portrait) {
+    max-width: 430px;
+}
+
+@media screen and (orientation: landscape) {
+    max-width: 860px;
+}
+
 * {
     font-family: 'SUITE-Regular';
     color: #333;
@@ -13,7 +21,6 @@
 body {
     margin-left: auto;
     margin-right: auto;
-    max-width: 860px;
     min-width: 430px;
 }
 
@@ -45,4 +52,4 @@ button {
     border: 1px solid #333;
     vertical-align: 0;
     background-color: #fff;
-}
+} 
