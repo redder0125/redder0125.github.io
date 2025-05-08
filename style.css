@@ -6,11 +6,11 @@
 }
 
 @media screen and (orientation: portrait) {
-    max-width: 430px;
+    body { max-width: 430px; }
 }
 
 @media screen and (orientation: landscape) {
-    max-width: 860px;
+    body { max-width: 860px; }
 }
 
 * {
