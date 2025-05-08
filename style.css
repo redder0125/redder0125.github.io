@@ -6,22 +6,22 @@
 }
 
 @media screen and (orientation: portrait) {
-    body { max-width: 430px; }
+    body {
+        max-width: 430px;
+        margin: auto;
+    }
 }
 
 @media screen and (orientation: landscape) {
-    body { max-width: 860px; }
+    body {
+        max-width: 860px;
+        margin: auto;
+    }
 }
 
 * {
     font-family: 'SUITE-Regular';
     color: #333;
-}
-
-body {
-    margin-left: auto;
-    margin-right: auto;
-    min-width: 400px;
 }
 
 header, footer {
