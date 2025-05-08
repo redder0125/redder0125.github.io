@@ -19,7 +19,7 @@ header, footer {
 }
 
 main {
-    border: 1px solid #333;
+    /* border: 1px solid #333; */
     padding: 2em 10em;
     width: 430px;
 }
@@ -30,7 +30,7 @@ a {
 }
 
 h1, h2{
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 button {
