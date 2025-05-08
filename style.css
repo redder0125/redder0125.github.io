@@ -8,6 +8,7 @@
 @media screen and (orientation: portrait) {
     body {
         max-width: 430px;
+        margin: auto;
     }
 
     main {
@@ -17,7 +18,7 @@
 
 @media screen and (orientation: landscape) {
     body {
-        max-width: 860px;
+        max-width: 640px;
         margin: auto;
     }
 
