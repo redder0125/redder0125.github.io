@@ -35,13 +35,13 @@
 
     main {
         display: inline-block;
-        max-width: 640px;
+        width: 640px;
         vertical-align: top;
     }
 
     nav{
         display: inline-block;
-        max-width: 200px;
+        width: 200px;
         margin-left: 20px;
         vertical-align: top;
     }
