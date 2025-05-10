@@ -36,12 +36,14 @@
     main {
         display: inline-block;
         max-width: 640px;
+        vertical-align: top;
     }
 
     nav{
         display: inline-block;
         max-width: 200px;
         margin-left: 20px;
+        vertical-align: top;
     }
 }
 
@@ -52,7 +54,8 @@
 
 header, footer {
     text-align: center;
-    margin: 5em auto;
+    margin: 0 auto;
+    margin-top: 5em;
 }
 
 a {
