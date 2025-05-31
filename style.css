@@ -7,9 +7,9 @@
 
 @media screen and (orientation: portrait) {
     body {
+        width: 95vw;
         max-width: 420px;
-        margin: auto;.
-        padding: 0 15px;
+        margin: 0 auto;
     }
 
     main {
