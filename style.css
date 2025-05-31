@@ -7,7 +7,7 @@
 
 @media screen and (orientation: portrait) {
     body {
-        width: 95vw;
+        width: 80%;
         max-width: 420px;
         margin: 0 auto;
     }
