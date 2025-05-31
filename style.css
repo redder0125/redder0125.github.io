@@ -7,21 +7,15 @@
 
 @media screen and (orientation: portrait) {
     body {
-        max-width: 430px;
+        max-width: 400px;
         margin: auto;
         padding: 0 15px;
     }
-    main {
+
+    main, nav {
         width: 100%;
-        max-width: 400px;
+        max-width: 360px;
         margin: 0 auto;
-        box-sizing: border-box;
-    }
-    
-    nav{
-        width: 100vw;
-        max-width: 400px;
-        padding: 0 auto;
         box-sizing: border-box;
     }
 }
