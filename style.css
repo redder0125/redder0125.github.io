@@ -20,7 +20,7 @@
     }
 
     nav {
-        width: 90%;
+        width: inherite;
         margin: 0 auto;
         box-sizing: border-box;
     }
