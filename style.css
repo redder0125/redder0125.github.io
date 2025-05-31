@@ -68,7 +68,7 @@ h1, h2{
 }
 
 .nav-button {
-    width: 100%;
+    width: 100vw;
     margin: 0 auto;
     margin-bottom: 10px;
     padding: 5px 10px;
