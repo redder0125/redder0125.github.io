@@ -20,8 +20,7 @@
     }
 
     nav {
-        width: 100%;
-        max-width: 360px;
+        width: 90%;
         margin: 0 auto;
         box-sizing: border-box;
     }
