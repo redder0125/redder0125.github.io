@@ -8,12 +8,12 @@
       }
 
       .st1, .st2 {
-        stroke: #333;
+        stroke: #222;
         stroke-miterlimit: 10;
       }
 
       .st3 {
-        fill: #333;
+        fill: #222;
       }
 
       .st2 {
